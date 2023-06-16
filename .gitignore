@@ -1,0 +1,13 @@
+node_modules
+coverage
+dist
+src/generated
+tsconfig.tsbuildinfo
+*.log
+.*
+!.editorconfig
+!.eslintrc
+!.gitignore
+!.README
+!.mocharc.js
+!.github
